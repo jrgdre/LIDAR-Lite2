@@ -1,0 +1,80 @@
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/CortexM0/ARM_GCC_493/Debug/main.o : Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyFlash.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyLFClk.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyLib.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_BOOT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_I2C.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_I2C_PVT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_PINS.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_PVT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_SCBCLK.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_SCB_IRQ.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_scl.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_scl_aliases.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_sda.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_sda_aliases.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_BOOT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_PINS.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_PVT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_rx.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_tx.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cm0.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cmFunc.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cmInstr.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyPm.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cydisabledsheets.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cypins.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cytypes.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/project.h Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/main.c 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_BOOT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_I2C.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_I2C_PVT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_PINS.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_PVT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_SCBCLK.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_SCB_IRQ.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_scl.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_scl_aliases.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_sda.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/I2C_sda_aliases.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/Generated_Source/PSoC4/project.h : 
+
+Z:/documents/projects/LIDAR-Lite2/Cypress/CY8C4247LQI-BL483/PSoC_Creator3/LIDAR-Lite2/HelloLidarLite2.cydsn/main.c : 
+

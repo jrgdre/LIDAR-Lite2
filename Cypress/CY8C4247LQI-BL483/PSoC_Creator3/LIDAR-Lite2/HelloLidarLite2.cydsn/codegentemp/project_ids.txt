@@ -1,0 +1,5 @@
+Z:\documents\projects\LIDAR-Lite2\Cypress\CY8C4247LQI-BL483\PSoC_Creator3\LIDAR-Lite2\HelloLidarLite2.cydsn\HelloLidarLite2.cyprj|dbb56b35-06aa-4dc8-9a8f-184df7b6d509
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|acc22739-711d-413b-8497-2303ec2740f1
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b253f84f-d987-4572-963a-81e3a36038d1
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|49be553a-b55b-4e51-a7cb-42e810a7cbb0
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|9a1af906-d3f0-4792-906f-1dbabb5b53b2

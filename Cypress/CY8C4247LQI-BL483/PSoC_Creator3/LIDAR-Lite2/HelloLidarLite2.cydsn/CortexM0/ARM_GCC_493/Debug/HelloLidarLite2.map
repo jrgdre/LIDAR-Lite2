@@ -1,0 +1,1238 @@
+Archive member included because of file (symbol)
+
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+                              .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (cyfitter_cfg)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o) (CyDelayCycles)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o) (CySysClkWriteImoFreq)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o) (CySysClkWcoStart)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (I2C_Start)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o) (I2C_I2CInit)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o) (I2C_mstrRdBufIndex)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (UART_Start)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o) (UART_UartInit)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o) (I2C_I2C_ISR)
+.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o) (UART_SpiUartReadRxData)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o) (__aeabi_uidiv)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o (__errno)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+                              .\CortexM0\ARM_GCC_493\Debug\main.o (sprintf)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memchr)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (memmove)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_free_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_malloc_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+                              c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o) (errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+I2C_mstrWrBufIndexTmp
+                    0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+errno               0x4               c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+I2C_state           0x1               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+I2C_mstrWrBufIndex  0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrWrBufSize   0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrStatus      0x2               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrRdBufPtr    0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrControl     0x1               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrRdBufSize   0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrRdBufIndex  0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+I2C_mstrWrBufPtr    0x4               .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .text.UART_Send_I2CMasterStatus
+                0x00000000       0x84 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .text._exit    0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .bss           0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkImoStart
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkImoStop
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkWriteHfclkDirect
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkGetSysclkSource
+                0x00000000       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkWriteSysclkDiv
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkEcoStop
+                0x00000000       0x24 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysLvdDisable
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysLvdGetInterruptSource
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysLvdClearInterrupt
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysGetResetReason
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyDisableInts
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyEnableInts
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntGetState
+                0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntSetPending
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntClearPending
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysClkWriteEcoDiv
+                0x00000000       0x38 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntSetSysVector
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntGetSysVector
+                0x00000000       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntGetVector
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyIntGetPriority
+                0x00000000       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySoftwareReset
+                0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysLvdEnable
+                0x00000000       0x44 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyDelayFreq
+                0x00000000       0x4c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickStop
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickEnableInterrupt
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickEnable
+                0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickDisableInterrupt
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickSetReload
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickGetReload
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickGetValue
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickSetClockSource
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickGetCountFlag
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickServiceCallbacks
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickClear
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickInit
+                0x00000000       0x4c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickStart
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickSetCallback
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CySysTickGetCallback
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text.CyGetUniqueId
+                0x00000000       0x70 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkIloEnabled
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkGetLfclkSource
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkIloStart
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkWcoEnabled
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetEnabledStatus
+                0x00000000       0x24 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetMode
+                0x00000000       0x38 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkLfclkPosedgeRestore
+                0x00000000       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetMode
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetClearOnMatch
+                0x00000000       0x38 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetClearOnMatch
+                0x00000000       0x24 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtEnable
+                0x00000000       0x3c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtDisable
+                0x00000000       0x44 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetCascade
+                0x00000000       0x34 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetCascade
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetMatch
+                0x00000000       0x58 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetToggleBit
+                0x00000000       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetToggleBit
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetMatch
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetCount
+                0x00000000       0x3c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkLfclkPosedgeCatch
+                0x00000000       0x74 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkIloStop
+                0x00000000       0x4c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkSetLfclkSource
+                0x00000000       0x38 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkWcoStop
+                0x00000000       0x48 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetInterruptSource
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtResetCounters
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtSetInterruptCallback
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtGetInterruptCallback
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtEnableCounterIsr
+                0x00000000       0x34 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWdtDisableCounterIsr
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysTimerDelayUntilMatch
+                0x00000000       0x6c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysTimerDelay
+                0x00000000       0x3c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysWatchdogFeed
+                0x00000000       0x60 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .rodata        0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_ScbModeStop
+                0x00000000        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_Stop
+                0x00000000       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_SetRxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_SetTxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_SetCustomInterruptHandler
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .text.I2C_I2CStop
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterSendStart
+                0x00000000       0xd8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterSendStop
+                0x00000000       0x8c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterWriteByte
+                0x00000000       0x98 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterReadByte
+                0x00000000       0x84 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterGetReadBufSize
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterGetWriteBufSize
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterClearReadBuf
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterClearWriteBuf
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterClearStatus
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text.I2C_I2CMasterSendRestart
+                0x00000000       0xc4 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text.UART_ScbModeStop
+                0x00000000        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text.UART_Stop
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text.UART_SetRxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text.UART_SetTxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartStop
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartSetRxAddress
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartSetRxAddressMask
+                0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartGetChar
+                0x00000000       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartGetByte
+                0x00000000       0x30 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartSetRtsPolarity
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartSetRtsFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartPutCRLF
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartEnableCts
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartDisableCts
+                0x00000000       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text.UART_UartSetCtsPolarity
+                0x00000000       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartReadRxData
+                0x00000000        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetRxBufferSize
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearRxBuffer
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartPutArray
+                0x00000000       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetTxBufferSize
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearTxBuffer
+                0x00000000       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntRx
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntTx
+                0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x40 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000      0x108 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xcc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00020000         xr
+ram              0x20000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+START GROUP
+LOAD .\CortexM0\ARM_GCC_493\Debug\main.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+LOAD .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a
+LOAD C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM0\ARM_GCC_493\Debug\CyComponentLibrary.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+                0x00000000                CY_APPL_ORIGIN = 0x0
+                0x00000080                CY_FLASH_ROW_SIZE = 0x80
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000001                CY_APPL_MAX = 0x1
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                0x00000000                CY_APP_FOR_STACK_AND_COPIER = 0x0
+                0x200001e8                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20004000                PROVIDE (__cy_stack, (ORIGIN (ram) + 0x4000))
+                0x20003800                PROVIDE (__cy_heap_end, (__cy_stack - 0x800))
+
+.cybootloader   0x00000000        0x0
+ *(.cybootloader)
+                0x00000000                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x0000ff80                appl2_start = (appl1_start + ALIGN ((((0x20000 - appl1_start) - (0x2 * CY_FLASH_ROW_SIZE)) / 0x2), CY_FLASH_ROW_SIZE))
+                0x00000000                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000001                cy_project_type_bootloader = (appl_start == 0x0)?0x1:0x0
+                0x00000000                cy_project_type_app_for_stack_and_copier = (CY_APP_FOR_STACK_AND_COPIER == 0x1)?0x1:0x0
+
+.text           0x00000000     0x1b36
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00000000       0x10 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x00000000                RomVectors
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x00000010                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00000010        0x8 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x00000010                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.psocinit)
+ .psocinit      0x00000018      0x1d8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+                0x00000104                cyfitter_cfg
+                0x000001f0                . = MAX (., 0x100)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x000001f0       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text.UART_Send_I2CMasterApiStatus
+                0x00000250       0x5c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000250                UART_Send_I2CMasterApiStatus
+ .text.LIDAR_I2C_SendMsg
+                0x000002ac       0x4c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x000002ac                LIDAR_I2C_SendMsg
+ .text.LIDAR_I2C_ReadBuf
+                0x000002f8       0x4c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x000002f8                LIDAR_I2C_ReadBuf
+ .text.LIDAR_Init
+                0x00000344       0x24 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000344                LIDAR_Init
+ .text.LIDAR_HardwareVersion
+                0x00000368       0x28 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000368                LIDAR_HardwareVersion
+ .text.LIDAR_SoftwareVersion
+                0x00000390       0x28 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000390                LIDAR_SoftwareVersion
+ .text.LIDAR_StartMeasuringContinously
+                0x000003b8       0x20 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x000003b8                LIDAR_StartMeasuringContinously
+ .text.LIDAR_Distance
+                0x000003d8       0x30 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x000003d8                LIDAR_Distance
+ .text.LIDAR_Velocity
+                0x00000408       0x2c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000408                LIDAR_Velocity
+ .text.LIDAR_Measure
+                0x00000434       0x40 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000434                LIDAR_Measure
+ .text.main     0x00000474       0x6c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x00000474                main
+ .text.IntDefaultHandler
+                0x000004e0        0x4 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x000004e0                IntDefaultHandler
+ .text._sbrk    0x000004e4       0x30 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x000004e4                _sbrk
+ .text.Start_c  0x00000514       0x48 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x00000514                Start_c
+ .text.initialize_psoc
+                0x0000055c       0x54 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x0000055c                initialize_psoc
+ .text.AnalogSetDefault
+                0x000005b0       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .text.CYMEMZERO
+                0x000005d0        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ *fill*         0x000005dc        0x4 
+ .text          0x000005e0       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+                0x000005e0                CyDelayCycles
+                0x000005f2                CyEnterCriticalSection
+                0x000005fa                CyExitCriticalSection
+ .text.CySysClkWriteImoFreq
+                0x00000600       0x64 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000600                CySysClkWriteImoFreq
+ .text.CySysClkEcoReadStatus
+                0x00000664       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000664                CySysClkEcoReadStatus
+ .text.CyIntEnable
+                0x00000674       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000674                CyIntEnable
+ .text.CyIntDisable
+                0x00000688       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000688                CyIntDisable
+ .text.CyHalt   0x0000069c        0x4 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x0000069c                CyHalt
+ .text.CyIntSetVector
+                0x000006a0       0x24 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x000006a0                CyIntSetVector
+ .text.CyIntSetPriority
+                0x000006c4       0x4c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x000006c4                CyIntSetPriority
+ .text.CyDelay  0x00000710       0x30 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000710                CyDelay
+ .text.CyDelayUs
+                0x00000740       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000740                CyDelayUs
+ .text.CySysClkEcoStart
+                0x00000754       0x54 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00000754                CySysClkEcoStart
+ .text.CySysWdtLocked
+                0x000007a8       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .text.CySysClkWcoStart
+                0x000007bc       0x40 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x000007bc                CySysClkWcoStart
+ .text.CySysClkWcoSetPowerMode
+                0x000007fc       0x80 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x000007fc                CySysClkWcoSetPowerMode
+ .text.CySysWdtLock
+                0x0000087c       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x0000087c                CySysWdtLock
+ .text.CySysWdtUnlock
+                0x00000898       0x30 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x00000898                CySysWdtUnlock
+ .text.CySysWdtClearInterrupt
+                0x000008c8       0x4c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x000008c8                CySysWdtClearInterrupt
+ .text.CySysWdtIsr
+                0x00000914       0xa4 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                0x00000914                CySysWdtIsr
+ .text.I2C_ScbEnableIntr
+                0x000009b8        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .text.I2C_Init
+                0x000009c4        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                0x000009c4                I2C_Init
+ .text.I2C_Enable
+                0x000009cc       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                0x000009cc                I2C_Enable
+ .text.I2C_Start
+                0x000009e4       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                0x000009e4                I2C_Start
+ .text.I2C_I2CInit
+                0x00000a04       0xbc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+                0x00000a04                I2C_I2CInit
+ .text.I2C_I2CMasterStatus
+                0x00000ac0       0x30 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                0x00000ac0                I2C_I2CMasterStatus
+ .text.I2C_I2CReStartGeneration
+                0x00000af0       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                0x00000af0                I2C_I2CReStartGeneration
+ .text.I2C_I2CMasterWriteBuf
+                0x00000b10       0xec .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                0x00000b10                I2C_I2CMasterWriteBuf
+ .text.I2C_I2CMasterReadBuf
+                0x00000bfc       0xfc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                0x00000bfc                I2C_I2CMasterReadBuf
+ .text.UART_ScbModePostEnable
+                0x00000cf8        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .text.UART_Init
+                0x00000d00        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                0x00000d00                UART_Init
+ .text.UART_Enable
+                0x00000d08       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                0x00000d08                UART_Enable
+ .text.UART_Start
+                0x00000d20       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                0x00000d20                UART_Start
+ .text.UART_UartInit
+                0x00000d40       0x98 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+                0x00000d40                UART_UartInit
+ .text.UART_UartPostEnable
+                0x00000dd8       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+                0x00000dd8                UART_UartPostEnable
+ .text.UART_UartPutString
+                0x00000df4       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+                0x00000df4                UART_UartPutString
+ .text.I2C_I2C_ISR
+                0x00000e0c      0x374 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+                0x00000e0c                I2C_I2C_ISR
+ .text.UART_SpiUartWriteTxData
+                0x00001180       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+                0x00001180                UART_SpiUartWriteTxData
+ .text          0x0000119c      0x120 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x0000119c                __aeabi_uidiv
+                0x0000119c                __udivsi3
+                0x000012a8                __aeabi_uidivmod
+ .text          0x000012bc        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x000012bc                __aeabi_idiv0
+                0x000012bc                __aeabi_ldiv0
+ .text.__errno  0x000012c0        0xc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                0x000012c0                __errno
+ .text.__libc_init_array
+                0x000012cc       0x4c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                0x000012cc                __libc_init_array
+ .text.memset   0x00001318       0x10 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                0x00001318                memset
+ .text.sprintf  0x00001328       0x44 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+                0x00001328                siprintf
+                0x00001328                sprintf
+ .text.__ssputs_r
+                0x0000136c       0xc0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000136c                __ssputs_r
+ .text._svfprintf_r
+                0x0000142c      0x1ec c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000142c                _svfiprintf_r
+                0x0000142c                _svfprintf_r
+ .text._printf_common
+                0x00001618       0xdc c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001618                _printf_common
+ .text._printf_i
+                0x000016f4      0x230 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000016f4                _printf_i
+ .text.memchr   0x00001924       0x16 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+                0x00001924                memchr
+ .text.memcpy   0x0000193a       0x12 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                0x0000193a                memcpy
+ .text.memmove  0x0000194c       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                0x0000194c                memmove
+ .text._free_r  0x00001974       0x8c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+                0x00001974                _free_r
+ .text._malloc_r
+                0x00001a00       0xb0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00001a00                _malloc_r
+ .text._realloc_r
+                0x00001ab0       0x4c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+                0x00001ab0                _realloc_r
+ .text._sbrk_r  0x00001afc       0x24 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+                0x00001afc                _sbrk_r
+ .text._malloc_usable_size_r
+                0x00001b20       0x16 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+                0x00001b20                _malloc_usable_size_r
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x00001b38        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00001b38        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x00001b38        0x4
+ *(.eh_frame)
+ .eh_frame      0x00001b38        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x00001b38        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+                0x00001b3c                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001b3c                __exidx_end = .
+
+.rodata         0x00001b3c      0x274
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00001b3c      0x1cc .\CortexM0\ARM_GCC_493\Debug\main.o
+ .rodata        0x00001d08        0xc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .rodata        0x00001d14       0x30 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x00001d14                cyImoFreqMhz2Reg
+ .rodata.str1.1
+                0x00001d44        0x2 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00001d46       0x11 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x00001d57       0x22 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00001d7c                . = ALIGN (0x4)
+ *fill*         0x00001d79        0x3 
+ *(.init)
+ .init          0x00001d7c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x00001d7c                _init
+ .init          0x00001d80        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x00001d88                . = ALIGN (0x4)
+                0x00001d88                __preinit_array_start = .
+ *(.preinit_array)
+                0x00001d88                __preinit_array_end = .
+                0x00001d88                . = ALIGN (0x4)
+                0x00001d88                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00001d88        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .init_array    0x00001d8c        0x4 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x00001d90                __init_array_end = .
+                0x00001d90                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00001d90        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x00001d90                _fini
+ .fini          0x00001d94        0x8 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+                0x00001d9c                . = ALIGN (0x4)
+                0x00001d9c                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00001d9c        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00001da0                __fini_array_end = .
+                0x00001da0                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00001da0                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00001da0                . = ALIGN (0x4)
+                0x00001da0                __cy_regions = .
+                0x00001da0        0x4 LONG 0x1db0 __cy_region_init_ram
+                0x00001da4        0x4 LONG 0x200000c8 __cy_region_start_data
+                0x00001da8        0x4 LONG 0xa0 __cy_region_init_size_ram
+                0x00001dac        0x4 LONG 0x80 __cy_region_zero_size_ram
+                0x00001db0                __cy_regions_end = .
+                0x00001db0                . = ALIGN (0x8)
+                0x00001db0                _etext = .
+
+.cy_checksum_exclude
+                0x00001db0        0x0
+ *(.cy_checksum_exclude)
+
+.ramvectors     0x20000000       0xc0
+                0x20000000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x20000000       0xc0 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                0x20000000                CyRamVectors
+
+.noinit         0x200000c0        0x4
+ *(.noinit)
+ .noinit        0x200000c0        0x4 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+
+.data           0x200000c8       0xa0 load address 0x00001db0
+                0x200000c8                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x200000c8        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x200000c8        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x200000cc       0x1c .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x200000cc                LIDAR_I2C_Msg_ModeControl
+                0x200000d0                LIDAR_I2C_Msg_GetHardwareVersion
+                0x200000d4                LIDAR_I2C_Msg_GetSoftwareVersion
+                0x200000d8                LIDAR_I2C_Msg_OuterLoopCount
+                0x200000dc                LIDAR_I2C_Msg_StartAcquisition
+                0x200000e0                LIDAR_I2C_Msg_GetDistance
+                0x200000e4                LIDAR_I2C_Msg_GetVelocity
+ .data          0x200000e8        0x4 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .data          0x200000ec       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                0x200000ec                cydelay32kMs
+                0x200000f0                cydelayFreqKhz
+                0x200000f4                cydelayFreqMhz
+                0x200000f8                cydelayFreqHz
+ .data          0x200000fc        0x4 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .data.impure_data
+                0x20000100       0x60 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000160        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x20000160                _impure_ptr
+                0x20000168                . = ALIGN (0x8)
+ *fill*         0x20000164        0x4 
+ *(.ram)
+                0x20000168                _edata = .
+
+.igot.plt       0x20000168        0x0 load address 0x00001e50
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.bss            0x20000168       0x80 load address 0x00001e50
+                0x20000168                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x20000168       0x1c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss           0x20000184        0x4 .\CortexM0\ARM_GCC_493\Debug\main.o
+                0x20000184                LIDAR_I2C_Msg_ResetFPGA
+ .bss           0x20000188       0x1c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .bss           0x200001a4        0x8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                0x200001a4                I2C_initVar
+                0x200001a8                I2C_customIntrHandler
+ .bss           0x200001ac        0x1 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                0x200001ac                UART_initVar
+ *fill*         0x200001ad        0x3 
+ .bss.__malloc_sbrk_start
+                0x200001b0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200001b0                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200001b4        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200001b4                __malloc_free_list
+ *(COMMON)
+ COMMON         0x200001b8        0x1 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+                0x200001b8                I2C_state
+ *fill*         0x200001b9        0x3 
+ COMMON         0x200001bc       0x24 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                0x200001bc                I2C_mstrWrBufIndexTmp
+                0x200001c0                I2C_mstrWrBufIndex
+                0x200001c4                I2C_mstrWrBufSize
+                0x200001c8                I2C_mstrStatus
+                0x200001cc                I2C_mstrRdBufPtr
+                0x200001d0                I2C_mstrControl
+                0x200001d4                I2C_mstrRdBufSize
+                0x200001d8                I2C_mstrRdBufIndex
+                0x200001dc                I2C_mstrWrBufPtr
+ COMMON         0x200001e0        0x4 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+                0x200001e0                errno
+                0x200001e8                . = ALIGN (0x8)
+ *fill*         0x200001e4        0x4 
+ *(.ram.b)
+                0x200001e8                _end = .
+                0x200001e8                __end = .
+                0x200001e8                PROVIDE (end, .)
+                0x200001e8                PROVIDE (__bss_end__, .)
+                0x00001db0                __cy_region_init_ram = LOADADDR (.data)
+                0x000000a0                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x00000080                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x200001e8       0x80 load address 0x00001e50
+                0x200001e8                . = _end
+                0x20000268                . = (. + 0x80)
+ *fill*         0x200001e8       0x80 
+                0x20000268                __cy_heap_limit = .
+
+.stack          0x20003800      0x800
+                0x20003800                __cy_stack_limit = .
+                0x20004000                . = (. + 0x800)
+ *fill*         0x20003800      0x800 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+                0x0001ffc0                cyloadermeta_start = (cy_project_type_bootloader || cy_project_type_app_for_stack_and_copier)?(0x20000 - CY_METADATA_SIZE):0xf0000000
+
+.cyloadermeta
+ *(.cyloadermeta)
+                0x0001ffc0                cyloadablemeta_start = cy_project_type_app_for_stack_and_copier?((0x20000 - CY_FLASH_ROW_SIZE) - CY_METADATA_SIZE):((0x20000 - (CY_FLASH_ROW_SIZE * (CY_APPL_NUM - 0x1))) - CY_METADATA_SIZE)
+
+.cyloadablemeta
+ *(.cyloadablemeta)
+
+.cyflashprotect
+                0x90400000       0x80
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000       0x80 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+                0x90500000                cy_metadata
+
+.cychipprotect  0x90600000        0x4
+ *(.cychipprotect)
+ .cychipprotect
+                0x90600000        0x4 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+                0x90600000                cy_meta_chipprotect
+
+.rel.dyn        0x00001e50        0x0 load address 0x90600004
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x690
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x78 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_aranges
+                0x00000078       0x18 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .debug_aranges
+                0x00000090       0x48 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_aranges
+                0x000000d8       0x38 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_aranges
+                0x00000110       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x00000130      0x1a0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_aranges
+                0x000002d0      0x150 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_aranges
+                0x00000420       0x60 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_aranges
+                0x00000480       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_aranges
+                0x000004a8       0x88 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_aranges
+                0x00000530       0x58 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_aranges
+                0x00000588       0x88 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_aranges
+                0x00000610       0x20 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_aranges
+                0x00000630       0x60 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3e2e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x946 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_info    0x00000946       0xfe .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .debug_info    0x00000a44      0x38e .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_info    0x00000dd2      0x36f .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_info    0x00001141       0xbc .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .debug_info    0x000011fd      0xb8f .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_info    0x00001d8c      0xdbd .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_info    0x00002b49      0x297 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_info    0x00002de0      0x1ab .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_info    0x00002f8b      0x5a3 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_info    0x0000352e      0x20a .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_info    0x00003738      0x352 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_info    0x00003a8a      0x18d .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_info    0x00003c17      0x217 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_abbrev   0x00000000     0x121b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1d9 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_abbrev  0x000001d9       0x5d .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .debug_abbrev  0x00000236      0x1d5 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_abbrev  0x0000040b      0x1c2 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_abbrev  0x000005cd       0x14 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x000005e1      0x20d .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_abbrev  0x000007ee      0x26d .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_abbrev  0x00000a5b      0x143 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_abbrev  0x00000b9e       0xf3 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_abbrev  0x00000c91      0x189 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_abbrev  0x00000e1a       0xd5 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_abbrev  0x00000eef      0x13b .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_abbrev  0x0000102a       0x88 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_abbrev  0x000010b2      0x169 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_line     0x00000000     0x1b53
+ *(.debug_line)
+ .debug_line    0x00000000      0x34c .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_line    0x0000034c       0x53 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .debug_line    0x0000039f      0x249 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_line    0x000005e8      0x169 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_line    0x00000751       0x68 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .debug_line    0x000007b9      0x49f .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_line    0x00000c58      0x4cf .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_line    0x00001127      0x13d .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_line    0x00001264       0xbe .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_line    0x00001322      0x2ae .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_line    0x000015d0      0x121 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_line    0x000016f1      0x1b6 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_line    0x000018a7      0x179 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_line    0x00001a20      0x133 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_frame    0x00000000     0x13a0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x188 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_frame   0x00000188       0xb0 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_frame   0x00000238       0x78 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_frame   0x000002b0      0x424 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_frame   0x000006d4      0x400 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_frame   0x00000ad4       0xe8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_frame   0x00000bbc       0x3c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_frame   0x00000bf8      0x16c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_frame   0x00000d64       0xd8 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_frame   0x00000e3c      0x130 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_frame   0x00000f6c       0x2c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_frame   0x00000f98       0xb0 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .debug_frame   0x00001048       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001068       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00001088       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x000010b0       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x000010dc       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x000010fc       0x50 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x0000114c       0x74 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x000011c0       0x54 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001214       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00001234       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x0000125c       0x28 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001284       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x000012b0       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x000012dc       0x30 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000130c       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001338       0x20 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00001358       0x48 c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+
+.debug_str      0x00000000     0x17bd
+ *(.debug_str)
+ .debug_str     0x00000000      0x448 .\CortexM0\ARM_GCC_493\Debug\main.o
+                                0x4aa (size before relaxing)
+ .debug_str     0x00000448       0x5b .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+                                0x1fa (size before relaxing)
+ .debug_str     0x000004a3      0x15c .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+                                0x321 (size before relaxing)
+ .debug_str     0x000005ff      0x102 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+                                0x2e3 (size before relaxing)
+ .debug_str     0x00000701      0x4ca .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+                                0x714 (size before relaxing)
+ .debug_str     0x00000bcb      0x511 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+                                0x74a (size before relaxing)
+ .debug_str     0x000010dc       0xfd .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+                                0x2de (size before relaxing)
+ .debug_str     0x000011d9       0x62 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+                                0x267 (size before relaxing)
+ .debug_str     0x0000123b      0x1ed .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+                                0x443 (size before relaxing)
+ .debug_str     0x00001428       0xcd .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+                                0x2a0 (size before relaxing)
+ .debug_str     0x000014f5      0x19a .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+                                0x397 (size before relaxing)
+ .debug_str     0x0000168f       0x49 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+                                0x2ca (size before relaxing)
+ .debug_str     0x000016d8       0xe5 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+                                0x2ee (size before relaxing)
+
+.debug_loc      0x00000000     0x1f0d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x257 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_loc     0x00000257      0x14f .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_loc     0x000003a6       0xa9 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_loc     0x0000044f      0x53e .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_loc     0x0000098d      0x8a2 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_loc     0x0000122f       0x7e .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_loc     0x000012ad      0x88e .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_loc     0x00001b3b       0x7e .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_loc     0x00001bb9      0x1b2 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_loc     0x00001d6b      0x10c .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_loc     0x00001e77       0x96 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000      0x598
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x68 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .debug_ranges  0x00000068       0x38 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .debug_ranges  0x000000a0       0x28 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .debug_ranges  0x000000c8      0x190 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .debug_ranges  0x00000258      0x140 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .debug_ranges  0x00000398       0x50 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .debug_ranges  0x000003e8       0x18 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .debug_ranges  0x00000400       0x78 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .debug_ranges  0x00000478       0x48 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .debug_ranges  0x000004c0       0x78 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .debug_ranges  0x00000538       0x10 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .debug_ranges  0x00000548       0x50 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 .\CortexM0\ARM_GCC_493\Debug\main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .comment       0x00000000       0x71 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x31 .\CortexM0\ARM_GCC_493\Debug\main.o
+ .ARM.attributes
+                0x00000096       0x31 .\CortexM0\ARM_GCC_493\Debug\cymetadata.o
+ .ARM.attributes
+                0x000000c7       0x31 .\CortexM0\ARM_GCC_493\Debug\Cm0Start.o
+ .ARM.attributes
+                0x000000f8       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(cyfitter_cfg.o)
+ .ARM.attributes
+                0x00000129       0x21 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x0000014a       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLib.o)
+ .ARM.attributes
+                0x0000017b       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(CyLFClk.o)
+ .ARM.attributes
+                0x000001ac       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C.o)
+ .ARM.attributes
+                0x000001dd       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C.o)
+ .ARM.attributes
+                0x0000020e       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_MASTER.o)
+ .ARM.attributes
+                0x0000023f       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART.o)
+ .ARM.attributes
+                0x00000270       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_UART.o)
+ .ARM.attributes
+                0x000002a1       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(I2C_I2C_INT.o)
+ .ARM.attributes
+                0x000002d2       0x31 .\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.a(UART_SPI_UART.o)
+ .ARM.attributes
+                0x00000303       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000321       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000033f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000036b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000397       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000003c3       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000003ef       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000041b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000447       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000473       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x0000049f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000004cb       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004f7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000523       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000054f       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000057b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x000005a7       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005d3       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x000005ff       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000062b       0x2c c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000657       0x1e c:/program files (x86)/cypress/psoc creator/3.3/psoc creator/import/gnu/arm/4.9.3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(.\CortexM0\ARM_GCC_493\Debug\HelloLidarLite2.elf elf32-littlearm)

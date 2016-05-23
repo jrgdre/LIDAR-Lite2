@@ -1,0 +1,11 @@
+; this one as a single command
+w 62 00 00 ; FPGA reboot
+
+; the next 4 commands as a block
+w 62 04 8C ; LIDAR_MC_VELOCITY | LIDAR_MC_DISABLE_SHORT_SIGNAL_ACQUISITION | LIDAR_MC_DISABLE_SHORT_REFERENCE
+w 62 11 FF ; OuterLoopCount: infinite
+w 62 00 04 ; start acquisition & correction processing with DC correction
+
+; repeat these lines to collect data
+w 62 8F p r 62 x @distance; read registers 0x0f and 0x10 in one call (0x0f with MSB set to 1 = 0x8F => LIDAR register auto increment)
+w 62 09 p r 62 @velocity
